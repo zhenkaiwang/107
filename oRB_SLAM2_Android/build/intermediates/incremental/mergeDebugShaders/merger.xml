@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/src/debug/shaders"/></dataSet></merger>

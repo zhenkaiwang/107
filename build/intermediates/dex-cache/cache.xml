@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_8843fcdced48cf9a99272bc47d48edc489b273a8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="35ceef75822d39479c630da178e5fb64624b6c0d">
+        <dex dex="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca9ea0aab9d6eb223a8f9c48bd316119f31978f6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_850085faa83303f78196a56ad32c581a91762995/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aa67e3639f08b99aa657cde80fc352e809f4e084">
+        <dex dex="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2784bced926b3a9b0dcc85b168d2a9811fb75acd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_78daf22fc86fbb8914dcd8db700208fa245c7080/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_4c89e68f10c61de36cb9aef282a41e50c6631f1e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_bab8404dacdf6c6fe16025d5c305626217f85241/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_a42fc11866f6b0496ea56f0122a9189aa56f596f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zack/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_c5ea96a6803b4856f1ceb7c1569439aacb92f68f/classes.dex" />
+    </item>
+
+</items>

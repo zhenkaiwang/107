@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="1468500963041495000"
+    token="8266859361007301274" >
+
+    <task
+        name="javac"
+        duration="593" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="704" />
+    <task
+        name="verifier"
+        duration="128" />
+
+    <artifact
+        location="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/outputs/apk/oRB_SLAM2_Android-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1468500963041495000" >
+        <artifact
+            location="/Users/Zack/AndroidStudioProjects/SLAM_Android/oRB_SLAM2_Android/build/outputs/apk/oRB_SLAM2_Android-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
